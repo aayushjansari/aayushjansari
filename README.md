@@ -1,5 +1,32 @@
-## Hi there 👋
+# Hi there! 👋 I'm Aayush Jansari
 
+🚀 Developer | 💻 Machine Learning Enthusiast | Computer Vision Enthusiast 🎦
+
+
+### 🛠️ My Tools & Technologies
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FFA726?style=flat&logo=tensorflow)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)  
+
+
+### 🎯 My GitHub Stats
+![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushjansari&show_icons=true&theme=radical)
+
+
+## 🌟 LeetCode Profile Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/aayushjansari?theme=dark&font=Karma&ext=heatmap)
+
+
+### 🤝 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aayush%20Jansari-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aayush-jansari-059887156/)  
 <!--
 **aayushjansari/aayushjansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
