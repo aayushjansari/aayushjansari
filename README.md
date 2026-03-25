@@ -2,12 +2,6 @@
 
 🚀 Developer | 💻 Machine Learning Enthusiast | 🎦 Computer Vision Enthusiast | 🤖 LLMops Enthusiast
 
----
-<div align="center">
-  <img src="github-metrics.svg" alt="Metrics" />
-</div>
-
----
 
 ### 🛠️ My Tools & Technologies
 
