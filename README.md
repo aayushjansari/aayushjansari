@@ -2,6 +2,12 @@
 
 🚀 Developer | 💻 Machine Learning Enthusiast | 🎦 Computer Vision Enthusiast | 🤖 LLMops Enthusiast
 
+---
+<div align="center">
+  <img src="github-metrics.svg" alt="Metrics" />
+</div>
+
+---
 
 ### 🛠️ My Tools & Technologies
 
@@ -9,7 +15,9 @@
 
 ### 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aayush%20Jansari-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aayush-jansari-059887156/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aayush%20Jansari-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aayush-jansari-059887156/)
+
+
 <!--
 **aayushjansari/aayushjansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
